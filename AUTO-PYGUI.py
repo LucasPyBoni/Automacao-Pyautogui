@@ -138,16 +138,4 @@ mail.To = 'lucasboni_business@outlook.com'
 mail.Send()
 
 
-# In[7]:
-
-
-display(tabela)
-tabela[linha, 'Status'] = 'registrado'
-display(tabela)
-
-
-# In[ ]:
-
-
-
 
